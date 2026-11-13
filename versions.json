@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-13-v4",
+  "latest": "gfc-2026-11-13-v5",
   "versions": [
+    {
+      "id": "gfc-2026-11-13-v5",
+      "date": "2026-11-13",
+      "version": "v5",
+      "title": "고정 상담 내비게이션 · 문구 정리",
+      "status": "draft",
+      "path": "gfc-2026-11-13-v5.html"
+    },
     {
       "id": "gfc-2026-11-13-v4",
       "date": "2026-11-13",
