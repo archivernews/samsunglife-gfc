@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-13-v1",
+  "latest": "gfc-2026-11-13-v2",
   "versions": [
+    {
+      "id": "gfc-2026-11-13-v2",
+      "date": "2026-11-13",
+      "version": "v2",
+      "title": "시네마틱 비주얼 · 네이비 대화형",
+      "status": "draft",
+      "path": "gfc-2026-11-13-v2.html"
+    },
     {
       "id": "gfc-2026-11-13-v1",
       "date": "2026-11-13",
