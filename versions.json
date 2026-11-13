@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-13-v3",
+  "latest": "gfc-2026-11-13-v4",
   "versions": [
+    {
+      "id": "gfc-2026-11-13-v4",
+      "date": "2026-11-13",
+      "version": "v4",
+      "title": "왜 GFC인가 · 교육·지원·보상 중심",
+      "status": "draft",
+      "path": "gfc-2026-11-13-v4.html"
+    },
     {
       "id": "gfc-2026-11-13-v3",
       "date": "2026-11-13",
