@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-13-v5",
+  "latest": "gfc-2026-11-13-v6",
   "versions": [
+    {
+      "id": "gfc-2026-11-13-v6",
+      "date": "2026-11-13",
+      "version": "v6",
+      "title": "상담 신청 통합 · 얼굴 보정 · 연락처",
+      "status": "draft",
+      "path": "gfc-2026-11-13-v6.html"
+    },
     {
       "id": "gfc-2026-11-13-v5",
       "date": "2026-11-13",
