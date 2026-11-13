@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-13-v2",
+  "latest": "gfc-2026-11-13-v3",
   "versions": [
+    {
+      "id": "gfc-2026-11-13-v3",
+      "date": "2026-11-13",
+      "version": "v3",
+      "title": "삼성생명 GFC · 블루 커리어 안내형",
+      "status": "draft",
+      "path": "gfc-2026-11-13-v3.html"
+    },
     {
       "id": "gfc-2026-11-13-v2",
       "date": "2026-11-13",
