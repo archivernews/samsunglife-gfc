@@ -1,6 +1,14 @@
 {
-  "latest": "gfc-2026-11-17-v7",
+  "latest": "gfc-2026-11-19-v8",
   "versions": [
+    {
+      "id": "gfc-2026-11-19-v8",
+      "date": "2026-11-19",
+      "version": "v8",
+      "title": "경험을 새로운 전문성으로 · GFC 커리어",
+      "status": "draft",
+      "path": "gfc-2026-11-19-v8.html"
+    },
     {
       "id": "gfc-2026-11-17-v7",
       "date": "2026-11-17",
